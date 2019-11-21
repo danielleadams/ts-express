@@ -1,0 +1,7 @@
+{
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git#072ef8e37f7f14c4106666bc72609bf08639b68e"
+    }
+  ]
+}
